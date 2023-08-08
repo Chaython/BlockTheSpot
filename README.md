@@ -11,7 +11,7 @@
 </center>
 
 ### Features:
-* Blocks all ads within the spotify client.
+* Blocks all advertisements' within the Spotify client.
 * Lives through Spotify updates. No need to patch Spotify after every update anymore.
 
 #### Experimental features from developer mode
