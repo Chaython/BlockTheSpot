@@ -11,7 +11,7 @@
 </center>
 
 ### Features:
-* Unlocks all premium features except downloads.
+* Blocks all ads within the spotify client.
 * Lives through Spotify updates. No need to patch Spotify after every update anymore.
 
 #### Experimental features from developer mode
